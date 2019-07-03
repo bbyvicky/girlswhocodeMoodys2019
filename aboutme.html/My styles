@@ -1,0 +1,9 @@
+ body{
+ background-color: "pink;"
+ background-image url("puppy.png")
+ background-repeat: no-repeat;
+}
+h1{
+   font-family:  sans-serif;
+   text-align: center;
+}
